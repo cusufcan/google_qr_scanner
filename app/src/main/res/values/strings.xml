@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleQRScanner</string>
+    <string name="scanned_value">Scanned Value:</string>
+    <string name="scan_qr">Scan QR</string>
+</resources>
